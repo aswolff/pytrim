@@ -1,2 +1,2 @@
 # pytrim
-Simple program to cut a window for a given start and end time
+Simple program to cut a video for a given start and end time
