@@ -1,2 +1,2 @@
 # pytrim
-Simple gui to watch and trim videos in python
+Simple program to cut a window for a given start and end time
